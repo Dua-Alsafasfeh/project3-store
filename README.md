@@ -36,7 +36,7 @@ Build E-commerce website using WordPress The user can add product to carts and m
    * [Repo Link](https://github.com/Dua-Alsafasfeh/project3-store)
 
 1. Trello Board
-   * [Live Link](https://trello.com/invite/b/fw6CaYVe/2abe7b6252e7ab1c6cda205583fc06c2/watches-store)
+   * [Trello link](https://trello.com/invite/b/fw6CaYVe/2abe7b6252e7ab1c6cda205583fc06c2/watches-store)
 
 
    <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
