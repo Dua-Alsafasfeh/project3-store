@@ -27,10 +27,10 @@ Build E-commerce website using WordPress The user can add product to carts and m
 
 
 1. Project Wireframe
-   * [Wireframe PDF](./Wireframe-watches-store.pdf)
+   * [Wireframe PDF](./Wireframe-watches-edited.pdf)
 
 1. Project Mockup
-   * [Mockup PDF](./mockup%20watches-store.pdf)
+   * [Mockup PDF](./mockup%20watches-edited.pdf)
 
 1. Project Folder
    * [Repo Link](https://github.com/Dua-Alsafasfeh/project3-store)
